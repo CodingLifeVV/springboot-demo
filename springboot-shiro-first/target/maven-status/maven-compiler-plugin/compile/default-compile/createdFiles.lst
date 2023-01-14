@@ -1,0 +1,8 @@
+com\wyj\pojo\User.class
+com\wyj\service\Impl\UserServiceImpl.class
+com\wyj\SpringbootShiroFirstApplication.class
+com\wyj\config\UserRealm.class
+com\wyj\controller\MyController.class
+com\wyj\service\UserService.class
+com\wyj\config\ShiroConfig.class
+com\wyj\mapper\UserMapper.class

@@ -1,0 +1,14 @@
+person:
+  name: wyj@qq.com
+  age: 18
+  happy: true
+  birth: 2020/12/12
+  maps: {k1: v1, k2: v2}
+  lists:
+    - music
+    - girl
+    - sport
+  dog:
+    name: wangchai
+    age: 3
+

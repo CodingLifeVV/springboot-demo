@@ -1,0 +1,5 @@
+com\springboot\study\DemoApplication.class
+com\springboot\study\pojo\Person.class
+com\springboot\study\pojo\Dog.class
+com\springboot\study\controller\HelloController.class
+META-INF\spring-configuration-metadata.json

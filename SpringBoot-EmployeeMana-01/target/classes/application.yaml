@@ -1,0 +1,10 @@
+
+# 关闭模板引擎的缓存
+spring:
+  thymeleaf:
+    cache: false
+
+# 项目虚拟路径
+server:
+  servlet:
+    context-path: /wyj

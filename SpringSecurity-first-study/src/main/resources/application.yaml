@@ -1,0 +1,6 @@
+# 关闭 Thymeleaf 缓存
+spring:
+  thymeleaf:
+    cache: false
+
+

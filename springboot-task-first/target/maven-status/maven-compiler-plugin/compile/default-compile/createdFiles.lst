@@ -1,0 +1,4 @@
+com\wyj\service\AsyncService.class
+com\wyj\service\ScheduledService.class
+com\wyj\controller\AsyncController.class
+com\wyj\SpringbootTaskFirstApplication.class

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.jdbc.study.demo.DemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 4.605 s <<< FAILURE! - in com.jdbc.study.demo.DemoApplicationTests
+contextLoads  Time elapsed: 1.861 s  <<< ERROR!
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.jdbc.study.demo.DemoApplicationTests.contextLoads(DemoApplicationTests.java:22)
+
